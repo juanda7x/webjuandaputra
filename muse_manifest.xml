@@ -1,0 +1,135 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="juandaputra.com" resolutions="1x" timestamp="1654481515284">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4044871766" ref="index:portait:about-us:other:photography"/>
+    <file name="index.css" crc="356311860" ref="index"/>
+    <file name="portait.css" crc="3818516138" ref="portait"/>
+    <file name="about-us.css" crc="76739276" ref="about-us"/>
+    <file name="other.css" crc="450096125" ref="other"/>
+    <file name="photography.css" crc="4205206980" ref="photography"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:about-us:portait:other"/>
+    <file name="museutils.js" crc="340535759" ref="index:photography:about-us:portait:other"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photography:about-us:portait:other"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:photography:about-us:portait:other"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:photography:about-us:portait:other"/>
+    <file name="require.js" crc="7928878" ref="index:photography:about-us:portait:other"/>
+    <file name="webpro.js" crc="4059564322" ref="other"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="other"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="other"/>
+    <file name="touchswipe.js" crc="4075097462" ref="other"/>
+  </folder>
+  <folder name="images">
+    <file name="u134-4.png" crc="4227419913" ref="index:photography:about-us:portait:other"/>
+    <file name="u131-4.png" crc="3940881264" ref="index:photography:about-us:portait:other"/>
+    <file name="logos.png" crc="448251118" seo="true" ref="index:photography:about-us:portait:other">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portait" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u123-4.png" crc="412238826" ref="index:photography:about-us:portait:other"/>
+    <file name="u126-4.png" crc="463408344" ref="index:photography:about-us:portait:other"/>
+    <file name="1.jpg" crc="140903675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u184-4.png" crc="315178691" ref="index"/>
+    <file name="u187-12.png" crc="32209439" ref="index"/>
+    <file name="dekstop-dsc01500 (1)c.jpg" crc="2264631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dekstop-dsc01728c.jpg" crc="4055678209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dekstop-dsc04557c.jpg" crc="4085762942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u146-6.png" crc="4128926224" ref="index:photography:about-us:portait:other"/>
+    <file name="u159-4.png" crc="495684878" ref="index:photography:about-us:portait:other"/>
+    <file name="2.jpg" crc="3856677572" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u250-4.png" crc="4118073509" ref="photography"/>
+    <file name="u255-14.png" crc="86538505" ref="photography"/>
+    <file name="dekstop-dsc00948_1c.jpg" crc="3944231990" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="dekstop-dsc00949_1c.jpg" crc="199765159" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4087227414" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u302-4.png" crc="378938234" ref="about-us"/>
+    <file name="u309-28.png" crc="487350597" ref="about-us"/>
+    <file name="dekstop-dsc04556c.jpg" crc="3990126986" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc01807c.jpg" crc="3953047347" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc02013c.jpg" crc="164874156" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc03822c.jpg" crc="42065223" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-edit27c.jpg" crc="382000768" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc01500 (1)c2.jpg" crc="418980882" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc04122c.jpg" crc="204860091" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc00556c.jpg" crc="4150565389" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dekstop-dsc03986c.jpg" crc="4278501692" seo="true" ref="portait">
+      <caption webpage="portait" alt=""/>
+    </file>
+    <file name="dsc01459-crop-u636.jpg" crc="224582479" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="other"/>
+    <file name="dsc01481-crop-u791.jpg" crc="3815393648" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc03690-crop-u811.jpg" crc="4167803386" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc03693-crop-u831.jpg" crc="4024810232" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc03986-crop-u851.jpg" crc="3837087079" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc04107-crop-u871.jpg" crc="248250281" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc04133-crop-u891.jpg" crc="3991015380" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc09466-crop-u911.jpg" crc="3837263836" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc09532 (1)-crop-u931.jpg" crc="4196688823" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc09642-crop-u951.jpg" crc="3901583985" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dsc09810-crop-u971.jpg" crc="81396174" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="other"/>
+  </folder>
+  <file name="index.html" crc="485552120" seo="true" mt="1654481262498" redirect="true"/>
+  <file name="photography.html" crc="4207556778" seo="true" mt="1654481262498" redirect="true"/>
+  <file name="about-us.html" crc="169538270" seo="true" mt="1654481262498" redirect="true"/>
+  <file name="portait.html" crc="4227767918" seo="true" mt="1654481262498" redirect="true"/>
+  <file name="other.html" crc="3843901537" seo="true" mt="1654481262498" redirect="true"/>
+</manifest>
